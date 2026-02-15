@@ -1,0 +1,4 @@
+python-telegram-bot==20.x
+aiohttp
+python-dotenv
+asyncio
